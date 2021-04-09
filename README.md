@@ -11,11 +11,11 @@
   Feel free to contact me on:
 </h3>
 
-<h1 align="center">
+<h3 align="center">
   <a target="_blank" href="mailto:aivarasr123@gmail.com">
      <img align="center" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
   </a>
-</h1>
+</h3>
 
 <hr>
 <h5 align="center">
