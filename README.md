@@ -19,7 +19,7 @@
 
 <hr>
 <h5 align="center">
-Code should at least make one user satisfied.✨
+Code should be understandable and meaningful✨
 <h5>
 <!---
 AivarasRinkevicius/AivarasRinkevicius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
