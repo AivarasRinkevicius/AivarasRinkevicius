@@ -8,18 +8,17 @@
 
 <hr>
 
-<h3 align="center">
+<h3 align="left">
   Feel free to contact me on:
 </h3>
-
-<h3 align="center">
   <a target="_blank" href="mailto:aivarasr123@gmail.com">
-     <img align="center" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+     <img align="left" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
   </a>
-</h3>
+  <a target="_blank" href="linkedin.com/in/aivaras-rinkevičius-24153a20b">
+     <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
 
 <hr>
-
 <h5 align="center">
   Code should be understandable and meaningful✨
 <h5>
