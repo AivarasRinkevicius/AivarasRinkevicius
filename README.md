@@ -7,6 +7,7 @@
 - 🔭 My recent project is [Price comparison engine - SmartShop](https://github.com/JuozasVainauskas/PCE_Web)
 
 <hr>
+
 <h3 align="center">
   Feel free to contact me on:
 </h3>
@@ -18,8 +19,9 @@
 </h3>
 
 <hr>
+
 <h5 align="center">
-Code should be understandable and meaningful✨
+  Code should be understandable and meaningful✨
 <h5>
 <!---
 AivarasRinkevicius/AivarasRinkevicius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
