@@ -18,7 +18,6 @@
      <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
 
-<hr>
 <h5 align="center">
   Code should be understandable and meaningful✨
 <h5>
