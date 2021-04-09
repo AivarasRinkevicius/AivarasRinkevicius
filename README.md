@@ -15,11 +15,12 @@
      <img align="left" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/aivaras-rinkevi%C4%8Dius-24153a20b/">
-     <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+     <img align="left" alt="LinkdeIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />
   </a>
-<hr>
+
 
 <h5 align="center">
+  <hr>
   Code should be understandable and meaningful✨
 <h5>
 <!---
